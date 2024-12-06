@@ -1,0 +1,14 @@
+.textbox {
+    width: 70vw;
+}
+
+.desc {
+    width: 70vw;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+}

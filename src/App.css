@@ -1,0 +1,32 @@
+.notes{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 20px;
+    padding-bottom: 20px;
+}
+.heading{
+   text-align: center;
+   margin-top: 20px;
+}
+.title{
+   margin: 0px 20vh 0 0;
+   display: inline;
+}
+
+.body{
+    min-height: 100vh;
+}
+.light{
+    background-color: rgb(229, 234, 239);
+    color: black;
+}
+.dark{
+    background-color: rgb(58, 66, 73);
+    color: white;
+}
+
+footer{
+    text-align: center;
+    padding: 20px;
+}
