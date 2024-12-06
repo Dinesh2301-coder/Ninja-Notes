@@ -106,6 +106,11 @@ ninja-notes/
 This project is licensed under the MIT License. Feel free to use, modify, and distribute it.
 
 ---
+### **Credits**
+Images and icons used in this application are taken from flaticon.com. Content and images belong to their respective owners.
+The phrase in the footer "All Rights Reserved" is just for educational and fun purposes and does not imply any definite meaning. 
+
+---
 
 ### **Future Enhancements**
 - Add search functionality to quickly find notes.
